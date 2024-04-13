@@ -1,4 +1,3 @@
-
 <div align='center'> 
     <br><br>
     <p style="margin-bottom:0px"><br>
@@ -8,14 +7,16 @@
     <br>
 </div>
 <div align='center'>
-    <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZzYzRoZ3FtM2Q1ZXNyNXZ1NXVlM2oyMDAxNHJhOHdmdnNubnB4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fBVaRM2c79TtXbyi6/giphy.gif" />
-    <legend style='font-size:12px; color: #0A0BD9'>Sim, gosto de One Piece</legend>
+    <p style='font-size:12px; color: #0A0BD9'>Sim, gosto de One Piece</p>
+    <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZzYzRoZ3FtM2Q1ZXNyNXZ1NXVlM2oyMDAxNHJhOHdmdnNubnB4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fBVaRM2c79TtXbyi6/giphy.gif" ra />   
 </div>
-<br><br>
+
+ 
+<br>
 <div align='left' style="width: 500px; margin: 0 auto">  
     <description>Mas alguns dos meus amigos me chamam de <b>cebola</b>, ou sou meio maluco mesmo. Enfim, caso queira falar comigo, sou a todos ouvidos.
     </description> 
-    <br><br><br><br>
+    <br><br>
     <p><b>Um pouco curiosidades sobre mim:</b></p>
     🔹 Gasto dinheiro a rodo em cursos online, apesar de não concluir uma pequena parte.
     <br>
@@ -24,12 +25,14 @@
     🔹Gosto de participações em projetos e sou criativo, só que o tempo é algo considerável.
     <br>
     🔹 Apesar de gastar com cursos geralmente me desafio, me tornando muito mais autodidata, sendo assim, um gasto muitas vezes desnecessário.
-
+    <br>
 </div>
 
-<div align='left' style="width: 500px; margin: 0 auto"> 
 
+<div align='left' style="width: 500px; margin: 0 auto"> 
+    
 ## Profissional
+
 </div>
 
 <div align='left' style="width: 500px; margin: 0 auto"> 
